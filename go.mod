@@ -1,4 +1,4 @@
-module github.com/exilenced/protos
+module github.com/exilenced/protos.git
 
 go 1.23.4
 
